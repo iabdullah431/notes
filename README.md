@@ -8,7 +8,7 @@
 
 <h4 align="left">📄 This is a project notes page   that I worked on with React basics and made with UseState and UseEffect please watch the clip below 👇</h4>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://www.youtube.com/watch?v=AuNjIPzAifc)](https://www.youtube.com/watch?v=AuNjIPzAifc)
 
 ###
 
