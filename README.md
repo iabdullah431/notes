@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code this project with</h2>
 
 ###
 
@@ -24,7 +24,3 @@
 </div>
 
 ###
-
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=AuNjIPzAifc">
-</iframe>
