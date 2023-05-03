@@ -8,7 +8,7 @@
 
 <h4 align="left">📄 This is a project notes page   that I worked on with React basics and made with UseState and UseEffect please watch the clip below 👇</h4>
 
-[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://www.youtube.com/watch?v=AuNjIPzAifc)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ###
 
