@@ -8,6 +8,8 @@
 
 <h4 align="left">📄 This is a project notes page   that I worked on with React basics and made with UseState and UseEffect please watch the clip below 👇</h4>
 
+[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://www.youtube.com/watch?v=AuNjIPzAifc)
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -20,9 +22,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
-
-###
-
-[![](https://markdown-videos.deta.dev/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
 
 ###
